@@ -60,10 +60,7 @@ body {
     line-height: 1.5;
     text-align: right;
   }
-  section {
-    padding: 60px;
-   
-  }
+  
 
   footer a {
     color: #024e76;
@@ -74,14 +71,14 @@ body {
    
   }
 
+/* Hero Style Start */
 
-  /* Hero Style Start */
 .hero {
     background-image: url("../images/hero-bg.jpg");
-    height: 600px;
     background-size: cover;
     background-position: center;
     position: relative;
+    height: 600px;
   }
   /* Hero Style End */
 
@@ -97,16 +94,14 @@ body {
   bottom: 120px;
   right: 140px;
   }
-  .hero-form p {
-    margin: 5px 0 15px 0;
-  }
-
   .hero-form h3 {
     font-size: 24px;
     margin: 0;
   }
-  
- 
+  .hero-form p {
+    margin: 5px 0 15px 0;
+  }
+
   .form-input {
     border: 1px solid #024e76;
     display: block;
@@ -116,10 +111,7 @@ body {
     width: 100%;
     margin-bottom: 15px;
   }
-
-
-
-  .hero-form label {
+ .hero-form label {
     margin: 0 5px;
   }
 
