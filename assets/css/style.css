@@ -87,8 +87,6 @@ body {
     background-image: url("../images/hero-bg.jpg");
     background-size: cover;
     background-position: center;
-    position: relative;
-    height: 600px;
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
@@ -115,11 +113,7 @@ body {
   border: 3px solid #024e76;
   background-color: #fce138;
   padding: 20px;
-  width: 500px;
   color: #024e76;
-  position: absolute;
-  bottom: 120px;
-  right: 140px;
   width: 40%;
   margin: 3.5%;
 
@@ -174,7 +168,7 @@ body {
   .secondary-border {
     border-color: #39a6b2;
   }
-  
+
   /* section title ends*/
   
 /* what we do styles */
